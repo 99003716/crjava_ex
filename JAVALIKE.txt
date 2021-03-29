@@ -1,0 +1,70 @@
+java
+
+ide's
+
+Eclipse
+IntelliJ
+
+Types of Java
+
+J2SE (Core Java) or Standard
+	Basic concepts
+	Standalone applications (Games, AntiVirus, Calculator), No need of Internet
+
+J2EE Advanced Java (Enterprise Java)
+	Web Based 
+		(Servlets. Jsp, Spring)
+		
+B2C Application eg: Amazon, Flipkart.
+
+	Enterprise Application
+		Cloud like Azure, AWS
+		B2B (Business to Business)
+		
+		Passport (Windows) ===> AADHAR app (Linux)
+
+J2ME
+	Java Micro Edition or Mobile Edition
+	
+Java Development Kit(JDK):
+	2 Stage Mechanism
+	We need to compile(.java to .class)
+		javac <filename>.java
+	We need to interprete(.class to .exe)
+		java <filename>
+
+JDK = JRE + Development Tools
+JRE = JVM + Library class
+
+IN JRE ===> .java to .class (javac <filename>)
+IN JVM ===> .class to .exe (java classname)
+
+Array :
+Array holds similar datatype elements(homeogeneous)
+Supports only fixed size
+No built in mehtod support
+
+Collections: Extension for Array
+Takes both Homogeneous and Heterogeneous
+
+Assign:
+Create CRUD application(Hash Values).
+Complete yammer assignments.
+Java Application and connect to database(MySql)
+Installing MySQL and Maven
+
+	Prepared Statement
+		execute  ---> create table
+		executeUpdate ---> insert, delete, update
+		executeQuery ---> select
+
+Activity (Submission)
+Employee class
+
+Test on 26th
+====================================================================================================================================
+	
+
+
+
+
