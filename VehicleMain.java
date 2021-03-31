@@ -64,7 +64,7 @@ class TwoWheeler extends Vehicle{
     }
 }
 
-public class assign {
+public class VehicleMain {
         public static void main(String[] args)
         {
             Vehicle vh = new Vehicle("2 wheeler", "KA01 MA 0212", "Diesel", 2000, 300);
